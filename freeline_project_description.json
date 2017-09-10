@@ -1,0 +1,108 @@
+{
+    "project_type": "gradle",
+    "android_gradle_plugin_version": "2.3.3",
+    "freeline_gradle_plugin_version": "0.8.7",
+    "java_home": "C:\\Program Files\\Java\\jdk1.8.0_111",
+    "freeline_cache_dir": "H:\\workspace\\RecyclerViewTest",
+    "auto_dependency": true,
+    "product_flavor": "",
+    "build_script": "gradlew.bat :app:assembleDebug",
+    "build_script_work_directory": "",
+    "root_dir": "H:\\workspace\\RecyclerViewTest",
+    "main_project_name": "app",
+    "main_project_dir": "app",
+    "build_directory": "H:\\workspace\\RecyclerViewTest\\app\\build",
+    "build_cache_dir": "H:\\workspace\\RecyclerViewTest\\app\\build\\freeline",
+    "build_tools_version": "25.0.0",
+    "sdk_directory": "D:\\work\\android-sdk",
+    "build_tools_directory": "D:\\work\\android-sdk\\build-tools\\25.0.0",
+    "compile_sdk_version": "android-25",
+    "compile_sdk_directory": "D:\\work\\android-sdk\\platforms\\android-25",
+    "package": "com.example.shang.recyclerviewtest",
+    "debug_package": "com.example.shang.recyclerviewtest",
+    "main_manifest_path": "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\AndroidManifest.xml",
+    "launcher": "com.example.shang.recyclerviewtest.MainActivity",
+    "apk_path": "H:\\workspace\\RecyclerViewTest\\app\\build\\outputs\\apk\\app-debug.apk",
+    "extra_dep_res_paths": [
+        
+    ],
+    "exclude_dep_res_paths": [
+        
+    ],
+    "main_r_path": "H:\\workspace\\RecyclerViewTest\\app\\build\\generated\\source\\r\\debug\\R.java",
+    "use_jdk8": true,
+    "ignore_resource_ids": [
+        "avd_hide_password_1",
+        "avd_hide_password_2",
+        "avd_hide_password_3",
+        "avd_show_password_1",
+        "avd_show_password_2",
+        "avd_show_password_3"
+    ],
+    "use_system_gradle": false,
+    "check_sources_md5": [
+        
+    ],
+    "main_src_directory": [
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\java",
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\java"
+    ],
+    "main_res_directory": [
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\res",
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\res"
+    ],
+    "main_assets_directory": [
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\assets",
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\assets"
+    ],
+    "main_jni_directory": [
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\jni",
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\jni"
+    ],
+    "main_jniLibs_directory": [
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\jniLibs",
+        "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\jniLibs"
+    ],
+    "project_source_sets": {
+        "app": {
+            "main_src_directory": [
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\java",
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\java"
+            ],
+            "main_res_directory": [
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\res",
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\res"
+            ],
+            "main_assets_directory": [
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\assets",
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\assets"
+            ],
+            "main_jni_directory": [
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\jni",
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\jni"
+            ],
+            "main_jniLibs_directory": [
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\debug\\jniLibs",
+                "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\jniLibs"
+            ],
+            "main_manifest_path": "H:\\workspace\\RecyclerViewTest\\app\\src\\main\\AndroidManifest.xml"
+        }
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "H:\\workspace\\RecyclerViewTest\\app"
+        }
+    ],
+    "module_dependencies": {
+        "app": [
+            
+        ]
+    },
+    "databinding": [
+        
+    ],
+    "databinding_modules": [
+        
+    ]
+}
